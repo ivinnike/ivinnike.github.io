@@ -1,0 +1,16 @@
+body {
+  background: #ffffff;
+  color: #000000;
+ }
+ 
+ .text {
+  text-align:  center;
+ }
+
+/* Ссылки */
+.button{
+  width: 18.28vw;
+  height: 8.35vw;
+  margin-top: 10px;
+}
+
